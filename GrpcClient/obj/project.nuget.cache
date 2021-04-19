@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/7OXjfkRYq/ZmRfOl9SF9QWP1zeEsS2TN2KrPOyxkhiu0jdKV43Lhx8I9yUry9n43ZCIwar3EAg/twRTIHqGg==",
+  "success": true,
+  "projectFilePath": "E:\\Faculdade\\7-Periodo\\SISTEMAS DISTRIBUIDOS\\Exemplo_RPC\\RPC_Prova_P2\\RPC\\GrpcClient\\GrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\google.protobuf\\3.10.0-rc1\\google.protobuf.3.10.0-rc1.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\grpc.core.api\\2.23.0\\grpc.core.api.2.23.0.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\grpc.net.client\\0.2.23-pre2\\grpc.net.client.0.2.23-pre2.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\grpc.net.common\\0.2.23-pre2\\grpc.net.common.0.2.23-pre2.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\grpc.tools\\2.24.0-pre1\\grpc.tools.2.24.0-pre1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\PedroHSA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

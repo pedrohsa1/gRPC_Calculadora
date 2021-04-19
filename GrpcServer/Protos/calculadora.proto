@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+service Calculadora {
+	rpc GetCalculadoraInfo (CalculadoraLookupModel) returns (CalculadoraModel);
+	rpc GetNewCalculadora (NewCalculadoraRequest) returns (stream CalculadoraModel);
+}
+
+message NewCalculadoraRequest{
+
+}
+
+message CalculadoraLookupModel {
+	int32 n1 = 1;
+	int32 n2 = 2;
+}
+
+message CalculadoraModel {
+	int32 n1 = 1;
+	int32 n2 = 2;
+	int32 soma = 3;
+	int32 subtracao = 4;
+	int32 multiplicacao = 5;
+	float divisao = 6;
+}
